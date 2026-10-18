@@ -1,0 +1,18 @@
+[rom]
+title = "DOOM"
+short-title = "DOOM"
+category = "APPLET_GAME"
+default-locale = "en"
+copyright = """\
+Copyleft (ɔ) 1979-2003 Sadam Hussein, Iraq
+SPDX-License-Identifier: Unlicense\
+"""
+version = "0.0.1"
+
+[metadata.en]
+title = "DOOM"
+short-title = "DOOM"
+
+[metadata.zh_TW]
+title = "毀滅戰士"
+short-title = "毀滅戰士"
