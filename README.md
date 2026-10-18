@@ -20,7 +20,7 @@
 
 ## 專案簡介
 
-本專案以 PureDOOM 單一標頭檔實作為基礎，將 DOOM 移植至 Besta RTOS 環境執行。目前已具備基本的畫面輸出與鍵盤輸入，遊戲流程可正常進行，但畫面顯示、按鍵對應與操作手感仍有待改善。
+本專案以 Project-muteki 與 PureDOOM 單一標頭檔實作為基礎，將 DOOM 移植至 Besta RTOS 環境執行。目前已具備基本的畫面輸出與鍵盤輸入，遊戲流程可正常進行，但畫面顯示、按鍵對應與操作手感仍有待改善。
 
 ## 檔案說明
 
@@ -71,3 +71,7 @@ build.bat
 ## 貢獻
 
 歡迎透過 Issue 或 Pull Request 提供協助，特別是針對上述已知問題的分析與修正。
+
+## 相關連結
+https://github.com/Project-Muteki/muteki
+https://github.com/Daivuk/PureDOOM
